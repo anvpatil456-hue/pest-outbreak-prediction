@@ -1,6 +1,7 @@
-streamlit
+streamlit>=1.28.0
 pandas
 joblib
 gdown
-mysql-connector-python
+mysqlclient
+SQLAlchemy
 scikit-learn
