@@ -1,4 +1,6 @@
 streamlit
 pandas
 joblib
+gdown
 mysql-connector-python
+scikit-learn
